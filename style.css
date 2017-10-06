@@ -1,0 +1,14 @@
+/*
+Theme Name: Theme Name
+The URI: http://domain.com
+Author: The Author
+Author URI: https://github.com/user
+Description: Your description
+Version: 1.0.0
+License: MIT
+Tags: webpack es6 sass scss
+Text Domain: textdomain
+*/
+
+
+@import url(bundler/css/main.css);
